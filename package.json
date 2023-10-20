@@ -1,0 +1,5 @@
+{
+  "private": true,
+  "name": "monitor-tool-poc",
+  "workspaces": ["client", "server"]
+}
