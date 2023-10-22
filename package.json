@@ -1,5 +1,7 @@
 {
   "private": true,
-  "name": "monitor-tool-poc",
-  "workspaces": ["client", "server"]
+  "author": "Stefan Stefanov <stefan.bg@gmail.com>",
+  "license": "MIT",
+  "name": "jest-web-ui",
+  "workspaces": ["app", "packages/*"]
 }
